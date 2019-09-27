@@ -1,0 +1,21 @@
+table{border-collapse:collapse
+}
+td{
+    border:5px solid rgb(98,197,236);
+    padding:10px;
+}
+table {
+    border-width:15px; 
+    border-style:solid; 
+    border-color:rgb(98, 197, 236);
+    width:100%;
+    }
+   td { 
+    border-width:5px;
+    border-style:solid; 
+    border-color:rgb(98,197,236);
+    width:50%;
+    }
+
+th{border:5px solid rgb(98,197,236);
+padding:10px}
